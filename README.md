@@ -4,7 +4,7 @@ Belajar Svelte dan Kit dengan praktek penerapan serta contoh proyek.
 
 ## Persyaratan
 - Memiliki akun [GitHub](https://github.com/)
-- Sebelum mengikuti materi. Pastikan sudah pernah membaca atau minimal mengenal tentang [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) dan [JavaScript](https://www.w3schools.com/js/default.asp)
+- Sudah pernah membaca atau minimal mengenal tentang [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) dan [JavaScript](https://www.w3schools.com/js/default.asp)
 - Komputer/Laptop sudah terinstall [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Pendaftaran
@@ -13,6 +13,9 @@ Belajar Svelte dan Kit dengan praktek penerapan serta contoh proyek.
 - Kirim `bukti transfer` dan akun `GitHub` ke `email@mashanz.com` dengan subjek `PRACTICAL SVELTE - NAMA_ANDA`
 - Kursus akan dimulai bulan Februari 2022 dari jam `20:00 s.d. 23:00`
 - Merasa tidak cocok? (ajukan refund 100% sebelum pertemuan ke 4)
+
+## Instruktur
+- [Hans](https://www.linkedin.com/in/mashanz/)
 
 ## Web Official Svelte
 Website official dan dokumentasi resmi svelte dan sveltekit
