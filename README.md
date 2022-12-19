@@ -1,6 +1,6 @@
 # Practical Svelte (Bahasa Indonesia)
 
-Repositori untuk belajar Svelte dan Kit dengan praktek penerapan serta contoh proyek.
+Belajar Svelte dan Kit dengan praktek penerapan serta contoh proyek.
 
 ## Persyaratan
 - Memiliki akun [GitHub](https://github.com/)
