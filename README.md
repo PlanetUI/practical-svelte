@@ -2,6 +2,11 @@
 
 Repositori untuk belajar Svelte dan Kit dengan praktek penerapan serta contoh proyek.
 
+## Persyaratan
+- Memiliki akun [GitHub](https://github.com/)
+- Sebelum mengikuti materi. Pastikan sudah pernah membaca atau minimal mengenal tentang [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) dan [JavaScript](https://www.w3schools.com/js/default.asp)
+- Komputer/Laptop sudah terinstall [Visual Studio Code](https://code.visualstudio.com/)
+
 ## Web Official Svelte
 Website official dan dokumentasi resmi svelte dan sveltekit
 - [Svelte Website](https://svelte.dev)
