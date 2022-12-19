@@ -9,7 +9,7 @@ Repositori untuk belajar Svelte dan Kit dengan praktek penerapan serta contoh pr
 
 ## Pendaftaran
 - Biaya Kursus selama 3 Bulan `Rp 1.2 jt` (online 2 Jam per pertemuan, 2 x seminggu selama 3 bulan jam) (24 pertemuan) 
-- Transfer ke `Bank Mandiri - 123 - Hanjara`
+- Transfer ke `Bank Mandiri - 1630005556769 - Hanjara`
 - Kirim `bukti transfer` dan akun `GitHub` ke `email@mashanz.com` dengan subjek `PRACTICAL SVELTE - NAMA_ANDA`
 - Kursus akan dimulai bulan Februari 2022 dari jam `20:00 s.d. 23:00`
 - Merasa tidak cocok? (ajukan refund 100% sebelum pertemuan ke 4)
@@ -25,4 +25,4 @@ Ngoding Svelte dan Sveltekit live langsung dari browser
 - [Belajar Svelte Kit dengan Live Coding](https://learn.svelte.dev)
 - [Eksperimen Svelte Live Coding](https://svelte.dev/repl)
 
-> Apabila ada saran dan masukan. Boleh melakukan Pull Request atau Submit issue.
+> Apabila ada saran dan masukan. Bisa kirim ke email@mashanz.com
