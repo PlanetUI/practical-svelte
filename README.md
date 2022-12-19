@@ -1,6 +1,6 @@
 # Practical Svelte (Bahasa Indonesia)
 
-Repositori untuk belajar Svelte dan Kit dengan praktek penerapan dan proyek
+Repositori untuk belajar Svelte dan Kit dengan praktek penerapan serta contoh proyek.
 
 ## Web Official Svelte
 Website official dan dokumentasi resmi svelte dan sveltekit
