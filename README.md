@@ -6,9 +6,10 @@ Belajar Svelte dan Kit dengan praktek penerapan serta contoh proyek.
 - Memiliki akun [GitHub](https://github.com/)
 - Sudah pernah membaca atau minimal mengenal tentang [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) dan [JavaScript](https://www.w3schools.com/js/default.asp)
 - Komputer/Laptop sudah terinstall:
-  - [Visual Studio Code](https://code.visualstudio.com/)
-  - [Docker](https://www.docker.com)
-  - khusus windowss harus sudah terinstall [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+  - [Visual Studio Code](https://code.visualstudio.com/) IDE untuk edit code.
+  - [Docker](https://www.docker.com) untuk setup infrastrukur aplikasi.
+  - Khusus windows harus sudah terinstall [WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
+  - [INFRA](https://mashanz.github.io/infra/) untuk praktek.
 - Minimun Requirement untuk komputer/laptop: `CPU 2 Core, RAM 4GB, DRIVE 20 GB` dan jaringan internet stabil.
 
 ## Pendaftaran
