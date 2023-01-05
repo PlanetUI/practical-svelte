@@ -23,9 +23,10 @@ Belajar Svelte dan Kit dengan praktek penerapan serta contoh proyek.
 - [Hans](https://www.linkedin.com/in/mashanz/)
 
 ## Web Official Svelte
-Website official dan dokumentasi resmi svelte dan sveltekit
-- [Svelte Website](https://svelte.dev)
-- [SvelteKit Website](https://kit.svelte.dev)
+Website official dan dokumentasi resmi svelte, sveltekit dan nativescript
+- [Svelte](https://svelte.dev) Tempat terbaik untuk memulai belajar Frontend framework Svelte
+- [SvelteKit](https://kit.svelte.dev) Integrasikan dengan Backend untuk menjadi Fullstack
+- [NativeScript](https://nativescript.org/) Membangun Aplikasi mobile Android dan IOS dengan framework javascript (Termasuk Svelte)
 
 ## Live Coding Svelte dan Kit secara Online
 Ngoding Svelte dan Sveltekit live langsung dari browser
