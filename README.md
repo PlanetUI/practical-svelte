@@ -38,4 +38,10 @@ Ngoding Svelte dan Sveltekit live langsung dari browser
 > Apabila ada saran dan masukan. Bisa kirim ke email@mashanz.com
 
 ## LAIN LAIN
-Library JS
+Resource yang sangat berguna untuk materi lanjutan Svelte.
+- Data Visualisasi: [D3JS](https://d3js.org/)
+- 3D Rendering: [ThreeJS](https://threejs.org/), [threlte](https://threlte.xyz/)
+- Utility CSS Class: [TailwindCSS](https://tailwindcss.com/)
+- SQL: [Postgres](https://github.com/porsager/postgres)
+- NoSQL: [MongoDB](https://github.com/mongodb/node-mongodb-native)
+- Mengirim Email: [NodeMailer](https://nodemailer.com/about/)
