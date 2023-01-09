@@ -2,6 +2,8 @@
 
 Belajar Svelte dan Kit dengan praktek penerapan serta contoh proyek.
 
+[DAFTAR](/PENDAFTARAN.md)
+
 ## Web Official Svelte
 Website official dan dokumentasi resmi svelte, sveltekit dan nativescript
 - [Svelte](https://svelte.dev) Tempat terbaik untuk memulai belajar Frontend framework Svelte
