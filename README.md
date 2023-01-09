@@ -26,3 +26,4 @@ Resource yang sangat berguna untuk materi lanjutan Svelte.
 - Database NoSQL: [MongoDB](https://github.com/mongodb/node-mongodb-native)
 - Mengirim Email: [Node Mailer](https://nodemailer.com/about/)
 - Cron Jsob: [Node Cron](https://www.npmjs.com/package/node-cron)
+- Cloud Platform: [AWS SDK V3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/index.html)
