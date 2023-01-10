@@ -17,9 +17,12 @@ Ngoding Svelte dan Sveltekit live langsung dari browser
 - [Belajar Svelte Kit dengan Live Coding](https://learn.svelte.dev)
 - [Eksperimen Svelte Live Coding](https://svelte.dev/repl)
 
-> 📧 Apabila ada saran dan masukan. Bisa kirim ke email@mashanz.com
-
 ## 📦 LAIN LAIN
+Penting untuk Developer profesional
+- Unit Test: [Vitest](https://vitest.dev/)
+- E2E Test: [Playwright](https://playwright.dev/)
+- UI Documentation: [Histoire](https://histoire.dev/)
+
 Resource yang sangat berguna untuk materi lanjutan Svelte.
 - Data Visualisasi: [D3JS](https://d3js.org/)
 - 3D Rendering: [ThreeJS](https://threejs.org/), [threlte](https://threlte.xyz/)
@@ -29,7 +32,7 @@ Resource yang sangat berguna untuk materi lanjutan Svelte.
 - Mengirim Email: [Node Mailer](https://nodemailer.com/about/)
 - Cron Jsob: [Node Cron](https://www.npmjs.com/package/node-cron)
 - Cloud Platform: [AWS SDK V3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/index.html)
-- UI Documentation: [Histoire](https://histoire.dev/)
 - Database Migrations: [PrismaJS](https://www.prisma.io/)
-- Unit Test: [Vitest](https://vitest.dev/)
-- E2E Test: [Playwright](https://playwright.dev/)
+
+
+> 📧 Apabila ada saran dan masukan. Bisa kirim ke email@mashanz.com
