@@ -29,3 +29,7 @@ Resource yang sangat berguna untuk materi lanjutan Svelte.
 - Mengirim Email: [Node Mailer](https://nodemailer.com/about/)
 - Cron Jsob: [Node Cron](https://www.npmjs.com/package/node-cron)
 - Cloud Platform: [AWS SDK V3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/index.html)
+- UI Documentation: [Histoire](https://histoire.dev/)
+- Database Migrations: [PrismaJS](https://www.prisma.io/)
+- Unit Test: [Vitest](https://vitest.dev/)
+- E2E Test: [Playwright](https://playwright.dev/)
