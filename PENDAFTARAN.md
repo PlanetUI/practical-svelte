@@ -16,4 +16,5 @@
 - Merasa tidak cocok? (ajukan refund 100% sebelum pertemuan ke 4)
 
 ## Instruktur
-- [Hans](https://www.linkedin.com/in/mashanz/)
+- [mashanz](https://www.linkedin.com/in/mashanz/)
+- [destryatma](https://github.com/destryatma)
