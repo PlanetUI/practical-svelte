@@ -34,6 +34,7 @@ Resource yang sangat berguna untuk materi lanjutan Svelte.
 - Cloud Platform: [AWS SDK V3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/index.html)
 - Database Migrations: [PrismaJS](https://www.prisma.io/)
 - Authentications: [AuthJS](https://authjs.dev/)
+- WebSocket: [SocketIO](https://socket.io/)
 
 
 > 📧 Apabila ada saran dan masukan. Bisa kirim ke email@mashanz.com
