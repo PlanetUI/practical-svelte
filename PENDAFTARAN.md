@@ -10,8 +10,8 @@
 
 ## Pendaftaran
 - Biaya Kursus selama 3 Bulan `Rp 1.2 jt` (online 2 Jam per pertemuan, 2 x seminggu selama 3 bulan jam) (24 pertemuan) 
-- Transfer ke `Bank Mandiri - 1630005556769 - Hanjara`
-- Kirim `bukti transfer` dan akun `GitHub` ke `email@mashanz.com` dengan subjek `PRACTICAL SVELTE - NAMA_ANDA`
+- [Bayar di sini](https://invoice.xendit.co/od/pmst-psvelte)
+- Setelah itu kirimkan akun `GitHub` ke `email@mashanz.com` dengan subjek `PRACTICAL SVELTE - NAMA_ANDA`
 - Kursus akan dimulai bulan Februari 2022 dari jam `20:00 s.d. 23:00`
 - Merasa tidak cocok? (ajukan refund 100% sebelum pertemuan ke 4)
 
